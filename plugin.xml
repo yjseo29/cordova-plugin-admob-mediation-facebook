@@ -18,8 +18,8 @@
 
     <platform name="ios">
         <pods-config ios-min-version="9.0" use-frameworks="true" />
-        <pod name="FBAudienceNetwork" version="5.2.0" />
-        <pod name="GoogleMobileAdsMediationFacebook" version="5.2.0.1" />
+        <pod name="FBAudienceNetwork" version="5.4.0" />
+        <pod name="GoogleMobileAdsMediationFacebook" version="5.4.0.0" />
     </platform>
     
     <dependency id="cordova-plugin-cocoapod-support" version="1.6.0" />
