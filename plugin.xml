@@ -12,8 +12,8 @@
     <license>MIT</license>
 
     <platform name="android">
-        <framework src="com.facebook.android:audience-network-sdk:5.2.0" />
-        <framework src="com.google.ads.mediation:facebook:5.2.0.1" />
+        <framework src="com.facebook.android:audience-network-sdk:5.4.0" />
+        <framework src="com.google.ads.mediation:facebook:5.4.0.0" />
     </platform>
 
     <platform name="ios">
