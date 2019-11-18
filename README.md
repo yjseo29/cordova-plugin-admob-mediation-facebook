@@ -9,7 +9,7 @@ Use with cordova admob plugins such as [cordova-plugin-admob-free](https://githu
 In your application project directory:
 
 ```bash
-cordova plugin add cordova-plugin-admob-mediation-facebook
+cordova plugin add https://github.com/yjseo29/cordova-plugin-admob-mediation-facebook
 ```
 
 ## Usage ##
