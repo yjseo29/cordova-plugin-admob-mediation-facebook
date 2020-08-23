@@ -16,6 +16,6 @@
     </platform>
 
     <platform name="ios">
-        <framework src="GoogleMobileAdsMediationFacebook" type="podspec" />
+        <framework src="GoogleMobileAdsMediationFacebook" type="podspec" spec="5.9.0.0" />
     </platform>
 </plugin>
