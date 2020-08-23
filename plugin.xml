@@ -16,6 +16,13 @@
     </platform>
 
     <platform name="ios">
-        <framework src="GoogleMobileAdsMediationFacebook" type="podspec" spec="5.9.0.0" />
+        <podspec>
+          <config>
+            <source url="https://cdn.cocoapods.org/"/>
+          </config>
+          <pods use-frameworks="true">
+            <pod name="GoogleMobileAdsMediationFacebook" spec="5.9.0.0"/>
+          </pods>
+        </podspec>
     </platform>
 </plugin>
