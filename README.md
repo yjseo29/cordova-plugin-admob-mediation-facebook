@@ -1,8 +1,6 @@
 [AdMob Mediation Adapter](https://firebase.google.com/docs/admob/android/mediation-networks) for [Facebook Audience Network](https://developers.facebook.com/docs/audience-network/getting-started)
 
-Use with cordova admob plugins such as [cordova-plugin-admob-free](https://github.com/ratson/cordova-plugin-admob-free)
-
-[CHANGELOG](https://github.com/becvert/cordova-plugin-admob-mediation-facebook/blob/master/CHANGELOG.md)
+Use with cordova admob plugins such as [admob-plus-cordova](https://github.com/admob-plus/admob-plus)
 
 ## Installation ##
 
@@ -16,7 +14,6 @@ cordova plugin add https://github.com/yjseo29/cordova-plugin-admob-mediation-fac
 
 [Set Up Admob Mediation](https://support.google.com/admob/answer/3124703?hl=en)
 
-Keep using the API of your favorite Admob cordova plugin!
 
 ## Check latest version ##
 * [Audience Network SDK for Android](https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/android/add-sdk)
