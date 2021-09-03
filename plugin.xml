@@ -12,7 +12,7 @@
     <license>MIT</license>
 
     <platform name="android">
-        <framework src="com.google.ads.mediation:facebook:6.5.1.0" />
+        <framework src="com.google.ads.mediation:facebook:6.6.0.0" />
     </platform>
 
     <platform name="ios">
