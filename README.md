@@ -14,6 +14,8 @@ cordova plugin add https://github.com/yjseo29/cordova-plugin-admob-mediation-fac
 
 [Set Up Admob Mediation](https://support.google.com/admob/answer/3124703?hl=en)
 
+[Update iOS Info.plist](https://developers.google.com/admob/ios/quick-start#update_your_infoplist)
+
 
 ## Check latest version ##
 * [Audience Network SDK for Android](https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/android/add-sdk)
