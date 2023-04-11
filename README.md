@@ -19,12 +19,12 @@ cordova plugin add https://github.com/yjseo29/cordova-plugin-admob-mediation-fac
 
 ## Check latest version ##
 * [Audience Network SDK for Android](https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/android/add-sdk)
-* [Facebook Android Mediation](https://developers.google.com/admob/android/mediation/facebook#facebook-android-mediation-adapter-changelog)
+* [Facebook Android Mediation](https://developers.google.com/admob/android/mediation/meta?hl=ko#meta-audience-network-android-mediation-adapter-changelog)
 
 -------------------------------
 
 * [Audience Network SDK for iOS](https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/ios/add-sdk)
-* [Facebook iOS Mediation](https://developers.google.com/admob/ios/mediation/facebook#facebook-ios-mediation-adapter-changelog)
+* [Facebook iOS Mediation](https://developers.google.com/admob/ios/mediation/meta?hl=ko#meta-audience-network-ios-mediation-adapter-changelog)
 
 ## Licence ##
 
